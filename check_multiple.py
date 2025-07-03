@@ -1,7 +1,7 @@
 # check_multiple.py
 
 # Hardcoded test values
-number = 9
+number = 8
 divisor = 3  # Change this to 4 to simulate a failed case
 
 print(f"Checking if {number} is a multiple of {divisor}...")
